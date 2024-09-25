@@ -1,5 +1,5 @@
 <div  align="center">
-<h1>Notes-Summarizer: <a href="https://notes-summarizer.herokuapp.com/"> Try A Demo Here!</a></h1>
+<h1>Notes-Summarizer</h1>
 
 </div>
 <div  align="center">
